@@ -18,12 +18,17 @@ A list of useful book about R
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
+[Making slides in R Markdown](https://arm.rbind.io/slides/xaringan.html#1)  
+
+[Advanced R Markdown Workshop](http://arm.rbind.io/) 
 
 ## R visualization
 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org)
 
 [Data Visualization with R](https://rkabacoff.github.io/datavis/)  
+
+[Curated resources for Data Visualization, Drawing & Publishing in R.](https://krzjoa.github.io/awesome-r-dataviz/#/)
 
 [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
@@ -33,7 +38,9 @@ A list of useful book about R
 
 [Shiny Dashboard](https://rstudio.github.io/shinydashboard/index.html)
 
+## R package development
 
+[Writing R Packages](http://www.danieldsjoberg.com/writing-R-packages/#1)
 
 
 ## R machine learning
@@ -65,4 +72,7 @@ A list of useful book about R
 [ComplexHeatmap Complete Reference](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
 
 [Orchestra:an online platform for teaching and learning hands-on computational skills in self-contained and launchable workshop environments](http://app.orchestra.cancerdatasci.org/)
+
+[rsthemes](https://www.garrickadenbuie.com/project/rsthemes/) 
+
 
