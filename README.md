@@ -15,7 +15,7 @@ A list of useful book about R
 
 ## R visualization
 
-[Data Visualization with R](https://rkabacoff.github.io/datavis/)
+[Data Visualization with R](https://rkabacoff.github.io/datavis/)  
 [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
 
