@@ -18,3 +18,7 @@ A list of useful book about R
 [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 
 
+## R bioinfo
+
+[The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
+
