@@ -11,3 +11,10 @@ A list of useful book about R
 ## R presentation
 
 [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+
+## R visualization
+
+[Data Visualization with R](https://rkabacoff.github.io/datavis/)
+
+
