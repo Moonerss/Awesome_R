@@ -8,4 +8,6 @@ A list of useful book about R
 
 [The tidyverse style guide](https://style.tidyverse.org/)
 
+## R presentation
 
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
