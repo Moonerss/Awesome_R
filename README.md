@@ -26,6 +26,8 @@ A list of useful book about R
 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org)
 
+[R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+
 [Data Visualization with R](https://rkabacoff.github.io/datavis/)  
 
 [Curated resources for Data Visualization, Drawing & Publishing in R.](https://krzjoa.github.io/awesome-r-dataviz/#/)
