@@ -14,6 +14,7 @@ A list of useful book about R
 
 [Big Book of R](https://www.bigbookofr.com)
 
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 
 ## R presentation
@@ -27,6 +28,8 @@ A list of useful book about R
 ## R visualization
 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org)
+
+[R chart](https://r-charts.com/)
 
 [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 
@@ -79,5 +82,9 @@ A list of useful book about R
 [Orchestra:an online platform for teaching and learning hands-on computational skills in self-contained and launchable workshop environments](http://app.orchestra.cancerdatasci.org/)
 
 [rsthemes](https://www.garrickadenbuie.com/project/rsthemes/) 
+
+[R opensci](https://r-universe.dev/search/)
+
+
 
 
