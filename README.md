@@ -12,6 +12,8 @@ A list of useful book about R
 
 [Data Science Introduction with R | R 语言数据科学导论](https://ds-r.leovan.tech/)
 
+[Big Book of R](https://www.bigbookofr.com)
+
 
 
 ## R presentation
