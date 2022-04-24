@@ -43,6 +43,7 @@ A list of useful book about R
 ## R package development
 
 [Writing R Packages](http://www.danieldsjoberg.com/writing-R-packages/#1)
+[R package](https://r-pkgs.org/)
 
 
 ## R machine learning
