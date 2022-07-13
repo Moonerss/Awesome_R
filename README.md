@@ -62,6 +62,16 @@ A list of useful book about R
 
 [The caret Package](https://topepo.github.io/caret/)
 
+[Tidy Modeling with R](https://www.tmwr.org/)  
+
+[Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+
+[Feature Engineering & Selection](https://bookdown.org/max/FES)
+
+[Statistical Inference via Data Science](https://moderndive.com/) 
+
+[Text Mining with R](https://www.tidytextmining.com/)
+
 
 ## R bioinfo
 
