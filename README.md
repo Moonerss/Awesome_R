@@ -48,6 +48,8 @@ A list of useful book about R
 
 [Shiny Dashboard](https://rstudio.github.io/shinydashboard/index.html)
 
+[Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/)
+
 ## R package development
 
 [Writing R Packages](http://www.danieldsjoberg.com/writing-R-packages/#1)
