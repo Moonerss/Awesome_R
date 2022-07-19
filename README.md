@@ -100,6 +100,6 @@ A list of useful book about R
 
 [R opensci](https://r-universe.dev/search/)
 
-
+[An educational resource for those seeking knowledge related to machine learning and statistical computing in R](http://r-statistics.co/)
 
 
